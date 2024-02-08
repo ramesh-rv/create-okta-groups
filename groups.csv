@@ -1,0 +1,6 @@
+GROUP_NAME,GROUP_DESCRIPTION
+Group1,Description for Group1
+Group2,Description for Group2
+"OU=Users,DC=Example,DC=com",AD Group
+"A,B,C",No Description
+Group 5,Description for Group 5
